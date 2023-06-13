@@ -42,7 +42,7 @@ h2 {
 #reset-btn{
     background: #880000;
 }
-#delete-brn{
+#delete-btn{
     background-color: #07d2ff;
 }
 #increment-btn:hover, #save-btn:hover, #reset-btn:hover, #delete-btn:hover{
